@@ -42,3 +42,12 @@ Thumbs.db
 ######################
 .idea/
 .idea/*
+
+# System #
+######################
+*.swo
+*.swp
+.ruby-*
+.env
+coverage/
+.bundle/
